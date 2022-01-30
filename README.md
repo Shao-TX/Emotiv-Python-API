@@ -9,7 +9,7 @@ Use Emotiv API to control python
 ![MET](https://imgur.com/54WmaV6.png)
 
 ## Result
-![Result](https://imgur.com/GW3OU7U.png)
+![Result](https://imgur.com/JecgsCT.png)
 
 ## Reference
 [Cortex API](https://emotiv.gitbook.io/cortex-api/)
